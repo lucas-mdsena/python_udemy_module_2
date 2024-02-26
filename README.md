@@ -32,6 +32,7 @@ O nome Pandas deriva de panel data, termo comum em bases de dados na econometria
 Para utilizarmos uma biblioteca, ele deve estar instalada na máquina que executa e interpreta os comandos da linguagem Python.​
 <br>
 Vamos apresentar três formas de se instalar a biblioteca Pandas (ou qualquer outra biblioteca para Python), para que o usuário escolha conforme sua preferência.​
+
 ## **Instalando no Windows**
 Abra o terminal ou o prompt de comando e digite o comando:​
 ![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/787c1b53-5e38-4bc7-a69c-589324fea582)
