@@ -1,4 +1,5 @@
 # **Manipulação de dados com Pandas**
+Este repositório contém os materiais utilizados durante o curso na Udemy.
 ***
 ***
 # **Dataframes, dados estruturados, semiestruturados e não estruturados**
@@ -16,6 +17,12 @@ Fonte: https://upload.wikimedia.org/wikipedia/commons/5/56/JSON_vs._XML.png
 Não estruturados não possuem a estrutura de identificação que os outros dois têm. Não há como antecipar o tipo (número inteiro, data, caractere). Dados não estruturados podem ser arquivos de texto, .csv, texto de e-mails, imagens, músicas.
 ![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/d93ca6ed-9f3d-4db8-baae-23c9554e4aca)
 Fonte: https://upload.wikimedia.org/wikipedia/commons/1/17/Cordillera_de_los_Andes.jpg
+***
+# **O que é o Pandas?​**
+Pandas é uma biblioteca open source desenvolvida para Python, que oferece um conjunto de **ferramentas para manipulação e análise de dados**.
+Aceita diversos tipos de arquivos como fonte de dados, como csv, xls, json, xml, html, arquivos de texto.
 
+Possui uma sintaxe de alto nível e bastante intuitiva.​
+É compatível com outras bibliotecas populares, como NumPy, Matplotlib, Statsmodels, SciPy, Scikit-Learn.​
 
 
