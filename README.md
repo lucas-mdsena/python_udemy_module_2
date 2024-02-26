@@ -34,8 +34,7 @@ Fonte: https://upload.wikimedia.org/wikipedia/commons/1/17/Cordillera_de_los_And
 <br>
 O nome Pandas deriva de panel data, termo comum em bases de dados na econometria.
 ***
-
-
+<br>
 # **Instalando o Pandas**
 Para utilizarmos uma biblioteca, ele deve estar instalada na máquina que executa e interpreta os comandos da linguagem Python.​
 <br>
