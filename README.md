@@ -21,8 +21,27 @@ Fonte: https://upload.wikimedia.org/wikipedia/commons/1/17/Cordillera_de_los_And
 # **O que é o Pandas?​**
 [Pandas](https://pandas.pydata.org/) é uma biblioteca open source desenvolvida para Python, que oferece um conjunto de **ferramentas para manipulação e análise de dados**.
 <br>
-Aceita diversos tipos de arquivos como fonte de dados, como csv, xls, json, xml, html, arquivos de texto. Possui uma sintaxe de alto nível e bastante intuitiva e é compatível com outras bibliotecas populares, como NumPy, Matplotlib, Statsmodels, SciPy, Scikit-Learn.​
+- Aceita diversos tipos de arquivos como fonte de dados, como csv, xls, json, xml, html, arquivos de texto.
+- Possui uma sintaxe de alto nível e bastante intuitiva.
+- É compatível com outras bibliotecas populares, como NumPy, Matplotlib, Statsmodels, SciPy, Scikit-Learn.​
+<br>
 <br>
 O nome Pandas deriva de panel data, termo comum em bases de dados na econometria.
 ***
+# **Instalando o Pandas**
+Para utilizarmos uma biblioteca, ele deve estar instalada na máquina que executa e interpreta os comandos da linguagem Python.​
+<br>
+Vamos apresentar três formas de se instalar a biblioteca Pandas (ou qualquer outra biblioteca para Python), para que o usuário escolha conforme sua preferência.​
+## **Instalando no Windows**
+Abra o terminal ou o prompt de comando e digite o comando:​
+![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/787c1b53-5e38-4bc7-a69c-589324fea582)
+![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/7b0b802c-6b27-480c-bd15-ae035add4b74)
+## **Instalando via notebook Jupyter​**
+![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/46448d70-0063-4200-8d3f-e89115214e4d)
+![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/7dc8bd72-2f83-4b4c-8e54-5135dfd772fa)
+## **Google Colab​**
+Nas máquinas disponibilizadas via Google Colab, o Pandas já vem instaladas, bastando apenas carregá-lo. Para instalar outra biblioteca, basta usar o comando de instalação padrão via notebooks Jupyter.
+***
+
+
 
