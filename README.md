@@ -19,10 +19,10 @@ Não estruturados não possuem a estrutura de identificação que os outros dois
 Fonte: https://upload.wikimedia.org/wikipedia/commons/1/17/Cordillera_de_los_Andes.jpg
 ***
 # **O que é o Pandas?​**
-Pandas é uma biblioteca open source desenvolvida para Python, que oferece um conjunto de **ferramentas para manipulação e análise de dados**.
-Aceita diversos tipos de arquivos como fonte de dados, como csv, xls, json, xml, html, arquivos de texto.
-
-Possui uma sintaxe de alto nível e bastante intuitiva.​
-É compatível com outras bibliotecas populares, como NumPy, Matplotlib, Statsmodels, SciPy, Scikit-Learn.​
-
+[Pandas](https://pandas.pydata.org/) é uma biblioteca open source desenvolvida para Python, que oferece um conjunto de **ferramentas para manipulação e análise de dados**.
+<br>
+Aceita diversos tipos de arquivos como fonte de dados, como csv, xls, json, xml, html, arquivos de texto. Possui uma sintaxe de alto nível e bastante intuitiva e é compatível com outras bibliotecas populares, como NumPy, Matplotlib, Statsmodels, SciPy, Scikit-Learn.​
+<br>
+O nome Pandas deriva de panel data, termo comum em bases de dados na econometria.
+***
 
