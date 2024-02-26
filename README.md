@@ -35,6 +35,7 @@ Vamos apresentar três formas de se instalar a biblioteca Pandas (ou qualquer ou
 
 ## **Instalando no Windows**
 Abra o terminal ou o prompt de comando e digite o comando:​
+<br>
 ![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/787c1b53-5e38-4bc7-a69c-589324fea582)
 ![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/7b0b802c-6b27-480c-bd15-ae035add4b74)
 
