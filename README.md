@@ -1,5 +1,5 @@
 # **Manipulação de dados com Pandas**
-Este repositório contém os materiais utilizados durante o curso na Udemy.
+Este repositório contém os materiais utilizados nas aulas do módulo 2, no curso da Udemy.
 ***
 
 
