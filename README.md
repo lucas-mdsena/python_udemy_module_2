@@ -41,6 +41,7 @@ Vamos apresentar três formas de se instalar a biblioteca Pandas (ou qualquer ou
 
 ## **Instalando no Windows**
 Abra o terminal ou o prompt de comando e digite o comando:​
+
 ```
 pip install pandas
 
@@ -50,13 +51,16 @@ pip install pandas==1.4.4
 
 ```
 
-<br>
-![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/787c1b53-5e38-4bc7-a69c-589324fea582)
-![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/7b0b802c-6b27-480c-bd15-ae035add4b74)
-
 ## **Instalando via notebook Jupyter​**
-![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/46448d70-0063-4200-8d3f-e89115214e4d)
-![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/7dc8bd72-2f83-4b4c-8e54-5135dfd772fa)
+
+```
+!pip install pandas
+
+```
+```
+!pip install pandas==1.4.4
+
+```
 
 ## **Google Colab​**
 Nas máquinas disponibilizadas via Google Colab, o Pandas já vem instaladas, bastando apenas carregá-lo. Para instalar outra biblioteca, basta usar o comando de instalação padrão via notebooks Jupyter.
