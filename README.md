@@ -16,12 +16,12 @@ Exemplos de dados estruturados são os arquivos .xlsx (excel) e bancos de dados 
 ## **Dados semiestruturados​**
 Os dados semiestruturados são chamados assim, pois não estão formatados como uma tabela, mas possuem uma estrutura de organização que permite identificar o tipo de cada informação – etiquetas/tags ou nós, a depender do tipo.
 ![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/ebfa0d4b-1922-400e-ac95-5375c0ffc613)
-Fonte: https://upload.wikimedia.org/wikipedia/commons/5/56/JSON_vs._XML.png
+[Fonte](https://upload.wikimedia.org/wikipedia/commons/5/56/JSON_vs._XML.png)
 
 ## **Dados não estruturados​**
 Não estruturados não possuem a estrutura de identificação que os outros dois têm. Não há como antecipar o tipo (número inteiro, data, caractere). Dados não estruturados podem ser arquivos de texto, .csv, texto de e-mails, imagens, músicas.
 ![image](https://github.com/lucas-mdsena/python_udemy/assets/93884007/d93ca6ed-9f3d-4db8-baae-23c9554e4aca)
-Fonte: https://upload.wikimedia.org/wikipedia/commons/1/17/Cordillera_de_los_Andes.jpg
+[Fonte](https://upload.wikimedia.org/wikipedia/commons/1/17/Cordillera_de_los_Andes.jpg)
 
 
 # **O que é o Pandas?​**
